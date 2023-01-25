@@ -12,4 +12,5 @@
 
 ## ⭐ Stats
 ![JoseDanielF](https://github-readme-stats.vercel.app/api?username=JoseDanielF&show_icons=true&theme=radical)
+
 ![JoseDanielF](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDanielF&hide=html&layout=compact&theme=radical)
