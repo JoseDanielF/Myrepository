@@ -1,5 +1,5 @@
 ## 👋 Hello World! 
-> Hi, my name is Daniel Duarte. I currently live in Quipapá-PE, Brazil and i'm a front end developer.
+> Hi, my name is Daniel Duarte. I currently live in Quipapá-PE, Brazil and i'm a Laravel developer.
 
 🔭 I am a Bachelor's student in Computer Science at UFAPE and I have been working as a developer since 2021 at LMTS.
 
