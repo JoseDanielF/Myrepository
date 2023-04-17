@@ -10,4 +10,4 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## ⭐ Stats
-![JoseDanielF](https://github-readme-stats.vercel.app/api?username=josedanielf&show_icons=true&theme=radical) ![JoseDanielF](https://github-readme-stats.vercel.app/api/top-langs/?username=josedanielf&hide=html&layout=compact&theme=radical)
+![Daniel Duarte](https://github-readme-stats.vercel.app/api?username=josedanielf&show_icons=true&theme=radical) ![Daniel Duarte](https://github-readme-stats.vercel.app/api/top-langs/?username=josedanielf&hide=html&layout=compact&theme=radical)
