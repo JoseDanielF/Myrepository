@@ -1,8 +1,8 @@
 ## 👋 Hello World!
 
-Hi, my name is Daniel Duarte. I currently live in Quipapá-PE, Brazil and I'm a PHP developer.
+Hi! I'm Daniel Duarte. I reside in Quipapá-PE, Brazil, and I'm currently pursuing my Bachelor's in Computer Science at UFAPE.
 
-🔭 I am a Bachelor's student in Computer Science at UFAPE. I've been in the development field since 2021. Initially, I started my journey at [LMTS](https://github.com/lmtsufape) as a Flutter developer and subsequently became a fullstack Laravel developer. Now, I am currently working at Omnilink as a Junior Software Analyst.
+🔭 Passionate about PHP development, my journey in the tech realm began in 2021. My initial experience was with [LMTS](https://github.com/lmtsufape), where I contributed as a Flutter developer and later transitioned into a fullstack Laravel role. Today, I'm harnessing my skills as a Junior Software Analyst at Omnilink.
 
 ## 💜 Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jdanielduarte/)  [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=5581997128385) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/danielfilho013) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/danieelduarte_/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/danielduartefilho013/) 
